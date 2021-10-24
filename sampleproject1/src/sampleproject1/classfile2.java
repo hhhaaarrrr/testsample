@@ -1,5 +1,5 @@
 package sampleproject1;
 
-public class testclass {
+public class classfile2 {
 
 }
